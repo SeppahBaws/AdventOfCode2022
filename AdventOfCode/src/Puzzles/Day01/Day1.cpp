@@ -16,7 +16,6 @@ namespace Day1
 		Common::ReadFileSync("src/Puzzles/Day01/input.txt", lines);
 
 
-		// Calculate the amount of times that the depth increases.
 		fmt::print("\n-----[ Part 1 ]-----\n");
 
 		// Initialize with one elf to kick-start the algorithm
