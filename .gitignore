@@ -1,0 +1,11 @@
+# IDE folders
+.idea/
+.vs/
+
+# Build folders
+bin/
+bin-int/
+
+# Solution files
+*.sln
+*.vcxproj*
