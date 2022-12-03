@@ -6,6 +6,8 @@
 #include <array>
 #include <ranges>
 #include <algorithm>
+#include <map>
+#include <unordered_map>
 
 
 typedef int8_t		i8;
