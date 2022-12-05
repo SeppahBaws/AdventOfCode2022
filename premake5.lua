@@ -10,8 +10,7 @@ workspace "AdventOfCode2022"
 
     flags
     {
-        "MultiProcessorCompile",
-        "FatalWarnings"
+        "MultiProcessorCompile"
     }
 
 outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
