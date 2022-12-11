@@ -5,6 +5,7 @@
 #include "Puzzles/Day04/Day4.h"
 #include "Puzzles/Day05/Day5.h"
 #include "Puzzles/Day06/Day6.h"
+#include "Puzzles/Day07/Day7.h"
 
 int main()
 {
@@ -13,5 +14,6 @@ int main()
 	// Day3::Run();
 	// Day4::Run();
 	// Day5::Run();
-	Day6::Run();
+	// Day6::Run();
+	Day7::Run();
 }
