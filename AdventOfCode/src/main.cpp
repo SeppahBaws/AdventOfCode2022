@@ -7,6 +7,7 @@
 #include "Puzzles/Day06/Day6.h"
 #include "Puzzles/Day07/Day7.h"
 #include "Puzzles/Day08/Day8.h"
+#include "Puzzles/Day09/Day9.h"
 
 int main()
 {
@@ -17,5 +18,6 @@ int main()
 	// Day5::Run();
 	// Day6::Run();
 	// Day7::Run();
-	Day8::Run();
+	// Day8::Run();
+	Day9::Run();
 }
