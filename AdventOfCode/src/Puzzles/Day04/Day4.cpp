@@ -19,7 +19,7 @@ namespace Day4
 
 	void Run()
 	{
-		fmt::print("=====[ AdventOfCode Day 2 ]=====\n");
+		fmt::print("=====[ AdventOfCode Day 4 ]=====\n");
 
 		std::vector<std::string> lines{};
 		Common::ReadFileSync("src/Puzzles/Day04/input.txt", lines);
