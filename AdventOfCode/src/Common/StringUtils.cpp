@@ -23,4 +23,18 @@ namespace Common::StringUtils
 
 		return output;
 	}
+
+	std::string RemoveCharacters(const std::string& str, const std::string& lookup)
+	{
+		if (lookup.empty()) return str;
+
+		std::string ret = str;
+
+		for (auto c : lookup)
+		{
+			std::erase(ret, c);
+		}
+
+		return ret;
+	}
 }
